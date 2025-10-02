@@ -38,7 +38,3 @@ This project is licensed under the MIT License.
 
 ***
 
-
-[9](https://www.youtube.com/watch?v=QcZKsbgsLa4)
-[10](https://github.com/AbdulMalikDev/MSCoin-Yield-Farm)
-[11](https://github.com/LeoVS09/simple-yield-farm)
