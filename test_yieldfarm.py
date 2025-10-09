@@ -25,4 +25,5 @@ class TestYieldFarm(unittest.TestCase):
 
 if __name__ == "__main__":
     # Run the unit tests
-    unittest.main()
+    # Set verbosity to 2 for more detailed output
+    unittest.main(verbosity=2)
